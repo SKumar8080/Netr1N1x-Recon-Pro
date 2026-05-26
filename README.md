@@ -48,7 +48,7 @@ The engine not only runs the recon but also produces a **beautiful, interactive 
 | Secret Discovery       | `SecretFinder`                                                             |
 | Directory Brute‑force  | `gobuster`                                                                 |
 | Vulnerability Scanning | `nuclei`                                                                   |
-| Historical URLs        | `waybackurls` (optional, for future phases)                                |
+| Upcomming tools      | `waybackurls, sqlmap, nikto, MCPs, etc` (optional, for future phases)        |
 
 All tools are automatically installed (Go tools via `go install`, Python tools inside a dedicated `venv`).
 
