@@ -2,7 +2,7 @@
   <img src="data/logo.png" alt="NetriNix Recon Engine" width="200"/>
 </p>
 
-<h1 align="center">⚡ NetriNix Recon Engine ⚡</h1>
+<h1 align="center">⚡ Netr1N1x Recon Engine ⚡</h1>
 <h3 align="center"><i>All-in-One Automated Reconnaissance & Vulnerability Scanning Framework</i></h3>
 
 <p align="center">
