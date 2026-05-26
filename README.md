@@ -57,19 +57,19 @@ All tools are automatically installed (Go tools via `go install`, Python tools i
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="data/terminal.png" alt="Terminal" width="600"/>
+  <img src="data/1.png" alt="Terminal" width="600"/>
   <br/>
   <em>CLI with colorful banner & live time estimation</em>
 </p>
 
 <p align="center">
-  <img src="data/report_summary.png" alt="HTML Report Summary" width="600"/>
+  <img src="data/2.png" alt="HTML Report Summary" width="600"/>
   <br/>
   <em>Interactive HTML report – summary cards</em>
 </p>
 
 <p align="center">
-  <img src="data/report_nuclei.png" alt="Nuclei Findings" width="600"/>
+  <img src="data/3.png" alt="Nuclei Findings" width="600"/>
   <br/>
   <em>Vulnerability findings section</em>
 </p>
