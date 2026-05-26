@@ -182,5 +182,6 @@ We welcome contributions! Feel free to open issues or pull requests for new feat
 📜 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
-👤 Author
-<p align="center"> <b>Srimant Kumar</b><br> Founder & Trainer at <a href="https://netrinix.com">NetriNix Academy</a><br> <a href="https://netrinix.com">https://netrinix.com</a> </p><p align="center"> <sub>Built with ❤️ for the security community.</sub> </p> ```
+
+## 👤 Author
+<p align="center"> <b>Srimant Kumar</b><br> Founder & Trainer at <a href="https://netrinix.com">Netrinix Academy</a><br> <a href="https://netrinix.com">https://netrinix.com</a> </p><p align="center"> <sub>Built with ❤️ for the security community.</sub> </p> 
