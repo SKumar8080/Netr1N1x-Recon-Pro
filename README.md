@@ -86,9 +86,9 @@ NetriNix Recon Engine is a single Python script – no complex setup required. I
 git clone https://github.com/netrinix/netrinix-recon.git
 cd netrinix-recon
 python3 netrinix_recon.py --help
+```
 
-
-Requirements
+## Requirements
 
     Python 3.8+ (with venv module)
 
@@ -102,7 +102,7 @@ Requirements
 
     The script will attempt to sudo apt-get install nmap if missing, so ensure your user has sudo privileges.
 
-⚡ Usage
+## ⚡ Usage
 bash
 
 python3 netrinix_recon.py <target> [--skip-estimate]
